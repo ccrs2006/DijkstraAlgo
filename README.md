@@ -2,7 +2,7 @@
 
 ## This program will create a Binary Tree as such
 
-<img src="Images/1.JPG" width="100" >
+<img src="Images/1.JPG" width="300" >
  
  
  ### STEP 1.
