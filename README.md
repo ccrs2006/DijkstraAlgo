@@ -1,10 +1,9 @@
-# Python Traversal Methods
+# Python Dijkstra's Algorithm
 
-## This program will create a Binary Tree as such
+## This program will find the best cost from node a to all other nodes in the diagram
 
 <img src="Images/1.JPG" width="300" >
- 
- 
+  
  ### STEP 1.
 * Setup working environment, Header Notes/README.
 I used Visual Studio Code and Python as my working environnment for this project. I then created a README file in my github account to display
