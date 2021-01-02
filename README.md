@@ -2,7 +2,7 @@
 
 ## This program will create a Binary Tree as such
 
-
+<img src="images/github-smail.png" width="100">
  
  
  ### STEP 1.
